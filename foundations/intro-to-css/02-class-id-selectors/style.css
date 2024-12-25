@@ -11,3 +11,9 @@
     color: hsl(230, 90%, 25%);
     font-size: 48px;
 }
+
+#normal {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
