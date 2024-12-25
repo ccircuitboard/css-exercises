@@ -6,3 +6,7 @@
 .cooler-class {
     font-size: 24px;
 }
+
+.blue {
+    color: hsl(230, 90, 25)
+}
